@@ -36,6 +36,10 @@ This repository serves as a comprehensive documentation resource to analyze sale
 
   
   Five card visuals were added to the canvas to display key performance indicators (KPIs), including Total Sales, Quantity, Profit, Profit Margin, and Retention Rate.
+
+  # Snapshot of KPIs
+  ![image](https://github.com/user-attachments/assets/ee69abb5-31cc-4116-abb1-85b110131c64)
+
 - Step 9: Two bar charts were included in the report design:
 1. The first chart represents Delivery Status by Shipping Type.
 2. The second chart displays Customer Region by Total Sales, with Delivery Status added to the legend axis for better segmentation.
