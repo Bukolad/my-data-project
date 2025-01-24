@@ -66,6 +66,10 @@ Season
 **Snap of new calculated column**
   ![image](https://github.com/user-attachments/assets/32b9d541-230a-4419-b0f6-c4d1f8f51991)
 
+  # Snapshot of Dashboard
+  ![image](https://github.com/user-attachments/assets/a8e131ec-d61a-4571-b27b-859285e72e65)
+
+
   # Insights
   1. Top Product Category
 
